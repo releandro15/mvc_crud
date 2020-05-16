@@ -1,3 +1,7 @@
+## Descrição Geral
+CRUD trabalhado no curso de PHP da @suporteb7web estilizado com Bootstrap 4.
+
+
 ## Instalação
 Você pode clonar este repositório OU baixar o .zip
 
